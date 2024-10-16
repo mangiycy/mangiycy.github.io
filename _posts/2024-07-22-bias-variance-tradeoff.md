@@ -1,8 +1,8 @@
 ---
 title: Bias-Variance Tradeoff
 date: 2024-08-03 16:00:00 +0800
+author: ycy
 categories: [Data Science]
-tags: []
 math: true
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: 性格
 date: 2024-07-12 15:57:00 +0800
-last_modified_at: 2024-10-13 16:47:00 -0400
+author: ycy
+# last_modified_at: 2024-10-13 16:47:00 -0400
 categories: [随感]
+hidden: true
 ---
 
 这两年不知道什么时候开始 [MBTI](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) 性格测试在网络上火了起来。
